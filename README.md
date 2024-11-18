@@ -7,3 +7,4 @@ Table of Contents :
 1. Flight Prediction
 2. KNN Classification
 3. Market Basket Analysis
+4. Property price Prediction
