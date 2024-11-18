@@ -6,3 +6,4 @@ Table of Contents :
 --------------------------------
 1. Flight Prediction
 2. KNN Classification
+3. 3. Market Basket Analysis
