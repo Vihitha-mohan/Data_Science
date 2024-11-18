@@ -8,3 +8,4 @@ Table of Contents :
 2. KNN Classification
 3. Market Basket Analysis
 4. Property price Prediction
+5. Academic Insight Engine
