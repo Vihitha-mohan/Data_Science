@@ -5,3 +5,4 @@ Welcome to my Data Science Projects repository! This repository contains various
 Table of Contents :
 --------------------------------
 1. Flight Prediction
+2. KNN Classification
