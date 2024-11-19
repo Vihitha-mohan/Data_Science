@@ -9,3 +9,4 @@ Table of Contents :
 3. Market Basket Analysis
 4. Property price Prediction
 5. Academic Insight Engine
+6. Loan Prediction
