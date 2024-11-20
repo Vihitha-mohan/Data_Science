@@ -10,3 +10,4 @@ Table of Contents :
 4. Property price Prediction
 5. Academic Insight Engine
 6. Loan Prediction
+7. Heart Disease prediction
