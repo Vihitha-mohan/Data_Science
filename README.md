@@ -11,3 +11,4 @@ Table of Contents :
 5. Academic Insight Engine
 6. Loan Prediction
 7. Heart Disease prediction
+8. K Means Clustering - Customer Segmentation
