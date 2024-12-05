@@ -12,3 +12,4 @@ Table of Contents :
 6. Loan Prediction
 7. Heart Disease prediction
 8. K Means Clustering - Customer Segmentation
+9. Movie Recommendation - Cosine Similarity
