@@ -14,3 +14,4 @@ Table of Contents :
 8. K Means Clustering - Customer Segmentation
 9. Movie Recommendation - Cosine Similarity
 10. rainfall Prediction - Random Forest
+11. Autisim Detection
